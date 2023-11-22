@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-<hr/>
-<p align='center'>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihassant&show_icons=true&theme=gruvbox)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihassant&layout=donut&theme=gruvbox)
-</p>p>
+
